@@ -39,6 +39,10 @@ there are three keyword.
 2. let -- block scope
 3. const -- block scope and can't change there value
 
+{
+    
+}
+
 
 Why javascript use?
 - To manipulate the DOM(Document object model)
